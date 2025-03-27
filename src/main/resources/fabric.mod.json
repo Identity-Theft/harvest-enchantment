@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "harvest-enchantment",
+	"version": "${version}",
+	"name": "Harvest Enchantment",
+	"description": "Adds a new enchantment which allows hoes to harvest crops when right clicking.",
+	"authors": [
+		"Identity Theft"
+	],
+	"contact": {
+		"homepage": "https://identity-theft.github.io/",
+		"sources": "https://github.com/Identity-Theft/harvest-enchantment"
+	},
+	"license": "MIT",
+	"icon": "assets/harvest-enchantment/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"identitytheft.harvestenchantment.HarvestEnchantment"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"midnightlib": ">=1.4.1"
+	}
+}

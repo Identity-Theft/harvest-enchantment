@@ -1,0 +1,19 @@
+{
+  "harvest-enchantment.midnightconfig.title": "Harvest Enchantment",
+
+  "harvest-enchantment.midnightconfig.category.harvestables": "Harvestables",
+  "harvest-enchantment.midnightconfig.category.enchantment": "Enchantment",
+
+  "harvest-enchantment.midnightconfig.AUTO_CONFIG_MODS": "Auto config mods",
+  "harvest-enchantment.midnightconfig.AUTO_CONFIG_MODS.tooltip": "Attempt to automatically register non-vanilla crops.",
+  "harvest-enchantment.midnightconfig.HARVESTABLE_CROPS": "Harvestable crops",
+  "harvest-enchantment.midnightconfig.HARVESTABLE_CROPS.tooltip": "List of crops that can be harvested.\nFormat: \"harvestState[,afterHarvest]\", i.e. \"minecraft:wheat[age=7]\" or \"minecraft:cocoa[age=2,facing=north],minecraft:cocoa[age=0,facing=north]\"",
+
+  "harvest-enchantment.midnightconfig.DAMAGE_TOOL": "Damage tool",
+  "harvest-enchantment.midnightconfig.DAMAGE_TOOL.tooltip": "Whether harvesting crops costs durability.",
+  "harvest-enchantment.midnightconfig.MAX_ENCHANTMENT_LEVEL": "Max Harvesting enchantment level",
+  "harvest-enchantment.midnightconfig.HARVEST_RANGE_PER_LEVEL": "Range increase per level",
+  "harvest-enchantment.midnightconfig.HARVEST_RANGE_PER_LEVEL.tooltip": "How much to expand the harvesting range for each level of enchantment.",
+
+  "enchantment.harvest-enchantment.harvesting": "Harvesting"
+}
