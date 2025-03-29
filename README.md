@@ -10,7 +10,7 @@ Harvest Enchantment adds one new enchantment which allows hoes to harvest crops 
 
 ***
 
-[![Curseforge](https://badges.penpow.dev/badges/available/curseforge/cozy-minimal.svg)](https://www.curseforge.com/minecraft/mc-mods/keep-xp-on-death) [![Modrinth](https://badges.penpow.dev/badges/available/modrinth/cozy-minimal.svg)](https://modrinth.com/mod/keep-xp-on-death) [![GitHub](https://badges.penpow.dev/badges/available/github/cozy-minimal.svg)](https://github.com/Identity-Theft/keep-xp-on-death) [![discord](https://badges.penpow.dev/badges/social/discord-singular/cozy-minimal.svg)](https://discord.gg/TyfPRCrJ9E) [![ko-fi](https://badges.penpow.dev/badges/donate/kofi-singular/cozy-minimal.svg)](https://ko-fi.com/identitytheft) [![website](https://badges.penpow.dev/badges/documentation/website/cozy-minimal.svg)](https://identity-theft.github.io/)
+[![Curseforge](https://badges.penpow.dev/badges/available/curseforge/cozy-minimal.svg)](https://www.curseforge.com/minecraft/mc-mods/harvest-enchantment) [![Modrinth](https://badges.penpow.dev/badges/available/modrinth/cozy-minimal.svg)](https://modrinth.com/mod/harvest-enchantment) [![GitHub](https://badges.penpow.dev/badges/available/github/cozy-minimal.svg)](https://github.com/Identity-Theft/harvest-enchantment) [![discord](https://badges.penpow.dev/badges/social/discord-singular/cozy-minimal.svg)](https://discord.gg/TyfPRCrJ9E) [![ko-fi](https://badges.penpow.dev/badges/donate/kofi-singular/cozy-minimal.svg)](https://ko-fi.com/identitytheft) [![website](https://badges.penpow.dev/badges/documentation/website/cozy-minimal.svg)](https://identity-theft.github.io/)
 
 ***
 
